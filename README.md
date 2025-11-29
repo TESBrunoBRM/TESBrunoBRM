@@ -1,10 +1,42 @@
-- 👋 hola, soy @TESBrunoBRM
-- 👀 Me interesa aprender a programar juegos, aplicaciones, etc. 
-- 🌱  Actualmente estoy aprendiendo a programar paginas, pero ahora quiero avanzar  hasta crear mi primer juego.
-- 💞️ Estoy buscando colavoracion en ...
-- 📫 How to reach me ... bbrevuelta@gmail.com
+<div align="center">
+  
+  # ¡Hola, soy Bruno! 👋
+  
+  ### 👨‍💻 Desarrollador Full Stack | React & Next.js Ecosystem
+  
+  ---
+  
+  <p align="left">
+    Me especializo en el desarrollo web moderno, combinando la velocidad de <b>React + Vite</b> en el frontend con la potencia de <b>Next.js</b>. Todo mi código está robustecido con <b>TypeScript</b>.
+    <br><br>
+    Además, tengo bases sólidas en maquetación web y mantengo mi pasión por el desarrollo de videojuegos usando <b>Unity</b> y aplicaciones móviles con <b>Android Studio</b>.
+  </p>
 
-<!---
-TESBrunoBRM/TESBrunoBRM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ---
+  
+  ### ⚡ Stack Tecnológico & Herramientas
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ts,react,vite,nextjs,npm,html,css,unity,androidstudio,django,git&perline=11" />
+    </a>
+  </p>
+
+  ---
+
+  ### 📊 Actividad en GitHub
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=TESBrunoBRM&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TESBrunoBRM&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="150" alt="languages graph" />
+  </div>
+
+  ---
+
+  ### 📫 Contáctame
+
+  <a href="mailto:bbrevuelta@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  
+</div>
