@@ -1,6 +1,6 @@
 <div align="center">
   
-  # ¡Hola, soy Bruno! 👋
+  # <img src= "https://raw.githubusercontent.com/TESBrunoBRM/TESBrunoBRM/master/emote_brm.png" height="120" width="auto" align=center> ¡Hola, soy Bruno! 👋
   
   ### 👨‍💻 Desarrollador Full Stack | React & Next.js Ecosystem
   
@@ -26,14 +26,13 @@
 
   ### 📊 Actividad en GitHub
   
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TESBrunoBRM&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TESBrunoBRM&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="150" alt="languages graph" />
-  </div>
+ <a href="https://stats.hyo.dev/stats/TESBrunoBRM"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=TESBrunoBRM" width="600" /></a>
+ <a href="https://stats.hyo.dev/stats/TESBrunoBRM"><img src="https://stats.hyo.dev/api/github-trophies?login=TESBrunoBRM" width="600" /></a>
 
   ---
 
   ### 📫 Contáctame
+  
 
   <a href="mailto:bbrevuelta@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
