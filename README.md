@@ -2,7 +2,7 @@
   
   # <img src= "https://raw.githubusercontent.com/TESBrunoBRM/TESBrunoBRM/master/emote_brm.png" height="120" width="auto" align=center> ¡Hola, soy Bruno! 👋
   
-  ### 👨‍💻 Desarrollador Full Stack | React & Next.js Ecosystem
+  ### 👨‍💻 Desarrollador Full Stack 
   
   ---
   
